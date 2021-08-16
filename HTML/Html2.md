@@ -46,7 +46,7 @@
 6. <a></a> เอาไว้ใช้สำหรับกดเพื่อลิงค์
 ตัวอย่าง
 ``` html
-<a>This is a link</a>
+<a href="" >This is a link</a>
 ``` 
 ผลลัพธ์
 ![image]()
