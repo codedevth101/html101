@@ -1,7 +1,7 @@
 # HTML 101
 คอร์สที่จะสอน HTML เเบบเรียนจบทำเป็นเลยเเละที่สำคัญคือ**ฟรี**
 
-### Contributr by
+### Contribute by
 - [Ronnapatp](https://github.com/ronnapatp)
 
 ถ้าพร้อมเเล้วไปเริ่มเรียนกันเลย
