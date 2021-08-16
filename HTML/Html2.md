@@ -8,7 +8,8 @@
 <p>This is paragraph</p>
 ``` 
 ผลลัพธ์
-![image]()
+
+![image](https://raw.githubusercontent.com/codedevth101/html101/main/images/p.PNG)
 
 2. <h1></h1> ย่อมาจากคำว่า heading 1 เอาไว้ใช้สำหรับ text ที่เป็น heading ใหญ่สุด
 ตัวอย่าง
