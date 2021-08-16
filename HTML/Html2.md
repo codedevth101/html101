@@ -8,7 +8,8 @@
 <p>This is paragraph</p>
 ``` 
 ผลลัพธ์
-![image]()
+
+![image](https://raw.githubusercontent.com/codedevth101/html101/main/images/p.PNG)
 
 2. <h1></h1> ย่อมาจากคำว่า heading 1 เอาไว้ใช้สำหรับ text ที่เป็น heading ใหญ่สุด
 ตัวอย่าง
@@ -16,7 +17,8 @@
 <h1>This is heading 1</h1>
 ``` 
 ผลลัพธ์
-![image]()
+
+![image](https://raw.githubusercontent.com/codedevth101/html101/main/images/h1.PNG)
 
 3. <h2></h2> ย่อมาจากคำว่า heading 2 เอาไว้ใช้สำหรับ text ที่เป็น heading ใหญ่รองลงมาจาก h1
 ตัวอย่าง
@@ -24,7 +26,8 @@
 <h2>This is heading 2</h2>
 ``` 
 ผลลัพธ์
-![image]()
+
+![image](https://raw.githubusercontent.com/codedevth101/html101/main/images/h2.PNG)
 
 4. <h3></h3> ย่อมาจากคำว่า heading 3 เอาไว้ใช้สำหรับ text ที่เป็น heading ใหญ่รองลงมาจาก h2
 ตัวอย่าง
@@ -32,7 +35,8 @@
 <h3>This is heading 3</h3>
 ``` 
 ผลลัพธ์
-![image]()
+
+![image](https://raw.githubusercontent.com/codedevth101/html101/main/images/h3.PNG)
 
 5. <h4></h4> ย่อมาจากคำว่า heading 4 เอาไว้ใช้สำหรับ text ที่เป็น heading ใหญ่รองลงมาจาก h3
 ตัวอย่าง
@@ -40,7 +44,8 @@
 <h4>This is heading 4</h4>
 ``` 
 ผลลัพธ์
-![image]()
+
+![image](https://raw.githubusercontent.com/codedevth101/html101/main/images/h4.PNG)
 
 6. <a></a> เอาไว้ใช้สำหรับกดเพื่อลิงค์
 ตัวอย่าง
@@ -48,7 +53,8 @@
 <a>This is a link</a>
 ``` 
 ผลลัพธ์
-![image]()
+
+![image](https://raw.githubusercontent.com/codedevth101/html101/main/images/a.PNG)
 
 
 ## รวมทั้งหมด
@@ -61,4 +67,4 @@
 <a href="" >This is a link</a>
 ``` 
 
-![image]()
+![image](https://raw.githubusercontent.com/codedevth101/html101/main/images/all.PNG)
