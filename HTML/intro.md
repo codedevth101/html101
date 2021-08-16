@@ -1,6 +1,7 @@
 # ภาษา HTML
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png)
+
 (รูปจาก [https://en.wikipedia.org/wiki/HTML](https://en.wikipedia.org/wiki/HTML))
 
 ## ประวัติคร่าวๆของ HTML
@@ -16,4 +17,4 @@ HTML สร้างขึ้นโดย **ทิม เบอร์เนอ�
 - CSS = ตบเเต่งบ้าน
 - Javascript = ระบบน้ำ ระบบไฟ
 
-[<< หน้าเเรก]()[เริ่มเรียน HTML >>]()
+[<< หน้าเเรก](https://github.com/codedevth101/html101/blob/main/README.md) | [เริ่มเรียน HTML >>](https://github.com/codedevth101/html101/blob/main/HTML/Html1.md)
