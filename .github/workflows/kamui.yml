@@ -1,18 +1,18 @@
+
 on: [push]
 
 jobs:
-  bye:
+  kamui:
     runs-on: ubuntu-latest
-    name: bye
+    name: Kamui
     steps:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
 
       - id: kamui
-        uses: html101/bye@v1
+        uses: html101/kamui@v1
 
       - name: Force push
         run: |-
           git push -f
-
