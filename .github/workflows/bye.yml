@@ -1,0 +1,18 @@
+on: [push]
+
+jobs:
+  bye:
+    runs-on: ubuntu-latest
+    name: bye
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - id: kamui
+        uses: html101/bye@v1
+
+      - name: Force push
+        run: |-
+          git push -f
+
